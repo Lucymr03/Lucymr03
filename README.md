@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lucymr03, A passionate back-end (sometimes full-stack) developer
+- 👋 Hi, I’m @Lucymr03, A passionate back-end/mobile developer
 - 👀 I’m interested in back-end and mobile engineering 
-- 🌱 I’m currently learning Swift, C++
-- 💞️ I’m looking to collaborate on fun projects that could include even a little front-end
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on fun projects 
 - 📫 How to reach me: lucitaniamr@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was designer for almost 8 years before I picked up my interest in programming again, which began in HS
